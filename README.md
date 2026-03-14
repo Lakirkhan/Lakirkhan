@@ -12,7 +12,7 @@
 - 🚀 Working at OTFCoder Private Limited Makarba Ahemdabad
 - ✨ Love solving real-world problems with clean code and smooth user experiences
 - 📚 Always learning — exploring **LangChain, LangGraph, OOP, and AI-driven assistants**
-- 📫 Reach me at: pathanlucky156@gmail.com
+- 📫 Reach me at: lakir.work1912@gmail.com
 
 ## 🏢 Professional Experience
 
