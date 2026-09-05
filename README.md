@@ -97,8 +97,19 @@ Some areas I'm experimenting with:
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakirkhan&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakirkhan&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakirkhan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakirkhan&theme=github-dark-blue&hide_border=true" width="70%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakirkhan&theme=github_dark" width="100%"/>
 </p>
 
 ---
