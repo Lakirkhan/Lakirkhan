@@ -1,77 +1,386 @@
-# Hi 👋, I'm Lakir
+# 👋 Hi, I'm Lakir Khan
 
-**A Software Engineer from Ahemdabad, India IN**
+### 💻 Software Engineer | Full-Stack Developer | AI/ML Enthusiast
 
-🌱 Passionate about building user-friendly software and contributing to open-source projects.
+📍 Ahmedabad, India 🇮🇳
 
----
+I build **scalable web applications, SaaS platforms, admin dashboards, CMS systems and AI-powered solutions**.
 
-## 🙋‍♂️ About Me
+I enjoy turning complex problems into **clean, secure and user-friendly software**.
 
-- 🔭 Currently working with **Laravel, Php , React Js and Python**
-- 🚀 Working at OTFCoder Private Limited Makarba Ahemdabad
-- ✨ Love solving real-world problems with clean code and smooth user experiences
-- 📚 Always learning — exploring **LangChain, LangGraph, OOP, and AI-driven assistants**
-- 📫 Reach me at: lakir.work1912@gmail.com
-
-## 🏢 Professional Experience
-
-### E-Procurement Technologies Pvt Ltd — Full Stack Developer
-- Worked on **React + Node.js + MySQL** based projects
-- Developed and maintained features, improving system reliability
-- Implemented user authentication, role-based access, and dynamic dashboards
-
-### OTFCoder Private Limited — Software Engineer
-- Contributed to live projects using **Laravel, PHP, Filament, and React**
-- Key Projects:
-  - **Bill of Material** — automated materials tracking system
-  - **Printing CRM** — streamlined client and order management
-  - **Asset Valuation Tool** — web app to track and calculate asset values
-  - **Suvidha Expense Tracker** — web-based expense tracking system
-- Focused on **security, code optimization, and smooth user experience**
+<p align="center">
+  <a href="https://lakirkhan-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/lakirkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lakir.work1912@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Portfolio
-- 🔗 Explore my work at: https://lakirkhan-portfolio.netlify.app/
+## 🚀 About Me
+
+* 🔭 Currently working with **Laravel, PHP, React.js and Python**
+* 💼 Software Engineer at **OTFCoder Private Limited**
+* 🧩 Building **ERP, CRM, CMS and SaaS applications**
+* 🎨 Working with **Filament, Metrica and custom admin dashboard themes**
+* 🔎 Interested in **Search, Semantic Search and RAG systems**
+* 🤖 Exploring **AI/ML, LLMs, LangChain and LangGraph**
+* 🧠 Learning **AI Agents and AI-powered assistants**
+* 🧑‍💻 Using **Claude Code** for AI-assisted development
+* 🔐 Interested in **application security and scalable backend architecture**
+* 🌱 Continuously learning **System Design, AI Engineering and modern web technologies**
 
 ---
 
-## 🏆 OTFCoder Private Limited As Software Engineer 
-- 🛠 Contibuting in the live Project  — focused on laravel PHP , improving the security of the system.
+## 💼 What I Build
+
+```text
+┌──────────────────────────────────────────────┐
+│              SOFTWARE ENGINEERING            │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🌐 Full-Stack Applications                  │
+│  🚀 SaaS Platforms                           │
+│  🏢 ERP / CRM Systems                        │
+│  🧩 CMS Platforms                            │
+│  🎨 Admin Dashboards                         │
+│  🔎 Search & Discovery Systems               │
+│  🤖 AI / ML Applications                     │
+│  🧠 RAG & AI Assistants                      │
+│  🔗 REST APIs                                │
+│  🔐 Secure Backend Systems                   │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
-## 🤝 Connect with Me
-https://www.linkedin.com/in/lakirkhan/
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,sql" />
+</p>
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi" />
+</p>
+
+## 🎨 UI / CSS / Admin Panels
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
+
+* ⚡ Laravel Filament
+* 🎨 Metrica Dashboard Theme
+* 🧩 Custom CMS UI
+* 📊 Admin Dashboard Development
+* 📱 Responsive UI Development
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
+</p>
+
+## 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### AI & Generative AI
+
+* 🧠 Machine Learning
+* 🤖 Generative AI
+* 🔗 LangChain
+* 🕸️ LangGraph
+* 📚 RAG
+* 🔎 Semantic Search
+* 🧬 Embeddings
+* 🗃️ Vector Search
+* 🤖 AI Agents
+* 💬 LLM Applications
+* 🦙 Ollama
+* 🧑‍💻 Claude Code
+
+## 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
 
 ---
 
-## ⚡ Tech Stack & Tools
-### Languages, Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-0F172A?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+# 🔎 Search & AI
 
-### Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I'm particularly interested in building applications that combine **traditional search with AI**.
 
-### UI/UX & Styling
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwindcss&logoColor=white)
+```text
+                 User Query
+                     │
+                     ▼
+              Query Processing
+                     │
+             ┌───────┴───────┐
+             ▼               ▼
+       Keyword Search   Semantic Search
+             │               │
+             └───────┬───────┘
+                     ▼
+                RAG Pipeline
+                     │
+                     ▼
+                 LLM / Agent
+                     │
+                     ▼
+            Contextual Response
+```
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=postman)
+### 🔍 Search Technologies
+
+* MySQL Full-Text Search
+* Filtering & Advanced Search
+* Semantic Search
+* Vector Search
+* Embeddings
+* RAG
+* Document Search
+* AI-powered Search
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakirkhan&layout=compact&theme=dark)
+# 🎨 CMS & Admin Panel Development
+
+I enjoy building **powerful backend systems with clean and modern interfaces**.
+
+### ⚡ Filament
+
+* Resources
+* Forms
+* Tables
+* Filters
+* Actions
+* Widgets
+* Custom Pages
+* Authentication
+* Roles & Permissions
+* Dashboard Customization
+
+### 🎨 Metrica Theme
+
+* Dashboard setup
+* Sidebar & navigation
+* Authentication pages
+* Cards & widgets
+* Charts
+* Tables
+* Forms
+* Responsive layouts
+* Laravel / Blade integration
+* Custom theme customization
+
+### 🧩 CMS
+
+```text
+Laravel
+   │
+   ├── Authentication
+   ├── Roles & Permissions
+   ├── Content Management
+   ├── Media Management
+   ├── Categories & Tags
+   ├── Search
+   ├── Settings
+   └── Analytics
+          │
+          ▼
+     Modern CMS
+```
+
+---
+
+# 🤖 AI-Assisted Development
+
+I'm exploring modern AI coding workflows using **Claude Code and LLM-powered developer tools**.
+
+```text
+Idea
+ ↓
+Architecture
+ ↓
+AI-Assisted Development
+ ↓
+Implementation
+ ↓
+Testing
+ ↓
+Debugging
+ ↓
+Refactoring
+ ↓
+Code Review
+ ↓
+Production 🚀
+```
+
+### Using AI for
+
+* 🏗️ Project architecture
+* ⚡ Faster development
+* 🔍 Codebase understanding
+* 🐛 Debugging
+* ♻️ Refactoring
+* 🧪 Test generation
+* 📚 Documentation
+* 🔐 Security analysis
+* 🤖 AI agent development
+
+---
+
+# 🚀 Featured Projects
+
+### 🏢 Enterprise Applications
+
+* ERP Systems
+* CRM Platforms
+* Warranty Management Systems
+* Field Force Management Systems
+* Construction Management Systems
+* Office Management Systems
+* Procurement Platforms
+
+### 🤖 AI Projects
+
+* 🧠 RAG AI Assistants
+* 🔎 Intelligent Search Systems
+* 📚 Document Q&A
+* 🤖 AI Agents
+* 💬 LLM Applications
+* 🧬 Semantic Search
+* ⚡ AI Developer Tools
+
+> 🚧 More projects are continuously being added to my GitHub.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakirkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakirkhan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=lakirkhan&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lakirkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakirkhan&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🤖 AI Engineering
+🧠 Large Language Models
+🔗 LangChain
+🕸️ LangGraph
+📚 RAG Architecture
+🔎 Vector & Semantic Search
+🤖 AI Agents
+🏗️ System Design
+🔐 Application Security
+⚡ Advanced Next.js
+🐳 Docker & Deployment
+☁️ Cloud Architecture
+```
+
+---
+
+# 🎯 2026 Goals
+
+* 🤖 Build production-ready AI applications
+* 🧠 Become stronger in AI Engineering
+* 🔎 Build advanced RAG & Search systems
+* 🕸️ Develop multi-agent AI workflows
+* 🚀 Build scalable SaaS products
+* 🌐 Contribute to Open Source
+* 🏗️ Improve System Design skills
+* 💻 Build globally scalable software
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to discussing:
+
+**Software Engineering • AI • Machine Learning • LLMs • RAG • AI Agents • SaaS • Open Source • Startups**
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lakirkhan/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://lakirkhan-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:lakir.work1912@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Build • Learn • Ship • Repeat 🚀
+
+⭐ **If you find my work interesting, consider giving my repositories a star!**
+
+</p>
