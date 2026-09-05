@@ -1,386 +1,134 @@
-# 👋 Hi, I'm Lakir Khan
+# 👋 Hey, I'm Lakir
 
-### 💻 Software Engineer | Full-Stack Developer | AI/ML Enthusiast
+**Full-Stack Developer who loves turning ideas into working products.**
 
-📍 Ahmedabad, India 🇮🇳
+`Ahmedabad, India 🇮🇳`
 
-I build **scalable web applications, SaaS platforms, admin dashboards, CMS systems and AI-powered solutions**.
+I build web applications, dashboards, APIs and AI-powered tools — mostly with **Laravel, React, Next.js, Node.js and Python**.
 
-I enjoy turning complex problems into **clean, secure and user-friendly software**.
-
-<p align="center">
-  <a href="https://lakirkhan-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakirkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lakir.work1912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Currently exploring the world where **Full-Stack Development meets AI 🤖**
 
 ---
 
-## 🚀 About Me
-
-* 🔭 Currently working with **Laravel, PHP, React.js and Python**
-* 💼 Software Engineer at **OTFCoder Private Limited**
-* 🧩 Building **ERP, CRM, CMS and SaaS applications**
-* 🎨 Working with **Filament, Metrica and custom admin dashboard themes**
-* 🔎 Interested in **Search, Semantic Search and RAG systems**
-* 🤖 Exploring **AI/ML, LLMs, LangChain and LangGraph**
-* 🧠 Learning **AI Agents and AI-powered assistants**
-* 🧑‍💻 Using **Claude Code** for AI-assisted development
-* 🔐 Interested in **application security and scalable backend architecture**
-* 🌱 Continuously learning **System Design, AI Engineering and modern web technologies**
-
----
-
-## 💼 What I Build
+### 🧩 What I Like Building
 
 ```text
-┌──────────────────────────────────────────────┐
-│              SOFTWARE ENGINEERING            │
-├──────────────────────────────────────────────┤
-│                                              │
-│  🌐 Full-Stack Applications                  │
-│  🚀 SaaS Platforms                           │
-│  🏢 ERP / CRM Systems                        │
-│  🧩 CMS Platforms                            │
-│  🎨 Admin Dashboards                         │
-│  🔎 Search & Discovery Systems               │
-│  🤖 AI / ML Applications                     │
-│  🧠 RAG & AI Assistants                      │
-│  🔗 REST APIs                                │
-│  🔐 Secure Backend Systems                   │
-│                                              │
-└──────────────────────────────────────────────┘
+Web Apps       →  SaaS • ERP • CRM • CMS
+Frontend       →  React • Next.js • Tailwind
+Backend        →  Laravel • Node.js • FastAPI
+Data           →  MySQL • PostgreSQL • MongoDB • Redis
+AI             →  RAG • LLMs • Agents • Search
 ```
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ My Development Space
 
-## 💻 Languages
+**🌐 Full-Stack**
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,sql" />
+Building complete applications from UI to database and API.
+
+**🎨 Product UI**
+
+Admin dashboards, CMS interfaces, responsive layouts and modern UX.
+
+**🔍 Search**
+
+Advanced filtering, full-text search, semantic search and AI-powered discovery.
+
+**🤖 AI**
+
+Experimenting with LLMs, RAG pipelines, AI agents and intelligent assistants.
+
+**🧠 AI Development**
+
+Using tools like **Claude Code** and local LLMs to explore faster and smarter development workflows.
+
+---
+
+## 🛠️ Technologies I Work With
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,express,python,fastapi,mysql,postgres,mongodb,redis,docker,git,github" />
 </p>
 
-## 🌐 Frontend
+### Other Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass" />
-</p>
+`Filament` `Metrica` `Tailwind CSS` `Bootstrap` `Blade`
+`REST APIs` `Postman` `LangChain` `LangGraph` `Ollama`
+`Machine Learning` `Generative AI` `RAG` `Semantic Search` `Claude Code`
 
-## ⚙️ Backend
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi" />
-</p>
+## 🤖 AI Playground
 
-## 🎨 UI / CSS / Admin Panels
+I'm currently diving deeper into:
 
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</p>
+**LLMs → RAG → Search → Agents → AI Applications**
 
-* ⚡ Laravel Filament
-* 🎨 Metrica Dashboard Theme
-* 🧩 Custom CMS UI
-* 📊 Admin Dashboard Development
-* 📱 Responsive UI Development
+Some areas I'm experimenting with:
 
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
-</p>
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-### AI & Generative AI
-
-* 🧠 Machine Learning
-* 🤖 Generative AI
-* 🔗 LangChain
-* 🕸️ LangGraph
-* 📚 RAG
-* 🔎 Semantic Search
-* 🧬 Embeddings
-* 🗃️ Vector Search
+* 🧠 Large Language Models
+* 📚 Retrieval-Augmented Generation
+* 🔎 Semantic & Hybrid Search
+* 🧬 Embeddings & Vector Search
 * 🤖 AI Agents
-* 💬 LLM Applications
-* 🦙 Ollama
-* 🧑‍💻 Claude Code
+* 🔗 LangChain & LangGraph
+* 🦙 Local LLMs with Ollama
+* 🐍 Python AI/ML
+* 🧑‍💻 AI-assisted development
 
-## 🔧 Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+## 🚀 Things I've Built
+
+| Project                   | Focus                          |
+| ------------------------- | ------------------------------ |
+| 🍔 **Cloud Kitchen**      | Full-Stack Food Platform       |
+| 🏥 **MediConnect**        | Healthcare & Appointments      |
+| 🤖 **AI Assistants**      | RAG & LLM Applications         |
+| 🔎 **Search Systems**     | Intelligent Search & Filtering |
+| 🏢 **Business Platforms** | ERP / CRM / CMS                |
+
+> More experiments, products and open-source projects are on the way. 🚧
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakirkhan&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakirkhan&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-# 🔎 Search & AI
-
-I'm particularly interested in building applications that combine **traditional search with AI**.
-
-```text
-                 User Query
-                     │
-                     ▼
-              Query Processing
-                     │
-             ┌───────┴───────┐
-             ▼               ▼
-       Keyword Search   Semantic Search
-             │               │
-             └───────┬───────┘
-                     ▼
-                RAG Pipeline
-                     │
-                     ▼
-                 LLM / Agent
-                     │
-                     ▼
-            Contextual Response
-```
-
-### 🔍 Search Technologies
-
-* MySQL Full-Text Search
-* Filtering & Advanced Search
-* Semantic Search
-* Vector Search
-* Embeddings
-* RAG
-* Document Search
-* AI-powered Search
-
----
-
-# 🎨 CMS & Admin Panel Development
-
-I enjoy building **powerful backend systems with clean and modern interfaces**.
-
-### ⚡ Filament
-
-* Resources
-* Forms
-* Tables
-* Filters
-* Actions
-* Widgets
-* Custom Pages
-* Authentication
-* Roles & Permissions
-* Dashboard Customization
-
-### 🎨 Metrica Theme
-
-* Dashboard setup
-* Sidebar & navigation
-* Authentication pages
-* Cards & widgets
-* Charts
-* Tables
-* Forms
-* Responsive layouts
-* Laravel / Blade integration
-* Custom theme customization
-
-### 🧩 CMS
-
-```text
-Laravel
-   │
-   ├── Authentication
-   ├── Roles & Permissions
-   ├── Content Management
-   ├── Media Management
-   ├── Categories & Tags
-   ├── Search
-   ├── Settings
-   └── Analytics
-          │
-          ▼
-     Modern CMS
-```
-
----
-
-# 🤖 AI-Assisted Development
-
-I'm exploring modern AI coding workflows using **Claude Code and LLM-powered developer tools**.
-
-```text
-Idea
- ↓
-Architecture
- ↓
-AI-Assisted Development
- ↓
-Implementation
- ↓
-Testing
- ↓
-Debugging
- ↓
-Refactoring
- ↓
-Code Review
- ↓
-Production 🚀
-```
-
-### Using AI for
-
-* 🏗️ Project architecture
-* ⚡ Faster development
-* 🔍 Codebase understanding
-* 🐛 Debugging
-* ♻️ Refactoring
-* 🧪 Test generation
-* 📚 Documentation
-* 🔐 Security analysis
-* 🤖 AI agent development
-
----
-
-# 🚀 Featured Projects
-
-### 🏢 Enterprise Applications
-
-* ERP Systems
-* CRM Platforms
-* Warranty Management Systems
-* Field Force Management Systems
-* Construction Management Systems
-* Office Management Systems
-* Procurement Platforms
-
-### 🤖 AI Projects
-
-* 🧠 RAG AI Assistants
-* 🔎 Intelligent Search Systems
-* 📚 Document Q&A
-* 🤖 AI Agents
-* 💬 LLM Applications
-* 🧬 Semantic Search
-* ⚡ AI Developer Tools
-
-> 🚧 More projects are continuously being added to my GitHub.
-
----
-
-# 📊 GitHub Stats
+## 🌐 Find Me Around the Web
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lakirkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakirkhan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=lakirkhan&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lakirkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakirkhan&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-🤖 AI Engineering
-🧠 Large Language Models
-🔗 LangChain
-🕸️ LangGraph
-📚 RAG Architecture
-🔎 Vector & Semantic Search
-🤖 AI Agents
-🏗️ System Design
-🔐 Application Security
-⚡ Advanced Next.js
-🐳 Docker & Deployment
-☁️ Cloud Architecture
-```
-
----
-
-# 🎯 2026 Goals
-
-* 🤖 Build production-ready AI applications
-* 🧠 Become stronger in AI Engineering
-* 🔎 Build advanced RAG & Search systems
-* 🕸️ Develop multi-agent AI workflows
-* 🚀 Build scalable SaaS products
-* 🌐 Contribute to Open Source
-* 🏗️ Improve System Design skills
-* 💻 Build globally scalable software
-
----
-
-# 🤝 Let's Connect
-
-I'm open to discussing:
-
-**Software Engineering • AI • Machine Learning • LLMs • RAG • AI Agents • SaaS • Open Source • Startups**
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lakirkhan/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="https://lakirkhan-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakir-khan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:lakir.work1912@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+### 💭 Current Mindset
+
+> **Build something useful. Make it simple. Then make it smarter.**
+
 <p align="center">
 
-### 💻 Build • Learn • Ship • Repeat 🚀
-
-⭐ **If you find my work interesting, consider giving my repositories a star!**
+⭐ Thanks for stopping by!
 
 </p>
